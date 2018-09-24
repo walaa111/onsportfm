@@ -67,8 +67,8 @@ function initAd(){
                     interstitial: 'ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx'	//PUT ADMOB ADCODE HERE 
                 },
                 android : {
-                    banner: 'ca-app-pub-7251676025279948/4561656883',		//PUT ADMOB ADCODE HERE 
-                    interstitial: 'ca-app-pub-7251676025279948/5578977669'	//PUT ADMOB ADCODE HERE 
+                    banner: 'ca-app-pub-7251676025279948/9790964383',		//PUT ADMOB ADCODE HERE 
+                    interstitial: 'ca-app-pub-7251676025279948/1321964346'	//PUT ADMOB ADCODE HERE 
                 }
             };
             var admobid = ( /(android)/i.test(navigator.userAgent) ) ? ad_units.android : ad_units.ios;
