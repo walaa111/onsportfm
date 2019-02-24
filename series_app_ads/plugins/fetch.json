@@ -35,7 +35,7 @@
   "cordova-plugin-admob-simple": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-admob-simple"
+      "id": "https://github.com/sunnycupertino/cordova-plugin-admob-simple"
     },
     "is_top_level": true,
     "variables": {}
