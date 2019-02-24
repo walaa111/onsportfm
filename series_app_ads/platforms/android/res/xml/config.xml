@@ -3,10 +3,6 @@
     <feature name="admob">
         <param name="android-package" value="com.admob.cordova.plugin.AdmobAdPlugin" />
     </feature>
-    <feature name="AdMob">
-        <param name="android-package" value="com.cupertino.cordova.plugin.AdMob" />
-        <param name="onload" value="true" />
-    </feature>
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
@@ -46,4 +42,8 @@ onsportfmstream
     <preference name="loglevel" value="DEBUG" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="android-targetSdkVersion" value="26" />
+    <feature name="AdMob">
+        <param name="android-package" value="com.cupertino.cordova.plugin.AdMob" />
+        <param name="onload" value="true" />
+    </feature>
 </widget>

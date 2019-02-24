@@ -10,17 +10,18 @@
         "spec": "latest",
         "type": "tag"
       },
-      "C:\\Users\\DELL\\Desktop\\test_github\\drn\\drn_radio\\drn_radio"
+      "D:\\test_github\\onsportfm\\onsportfm\\series_app_ads"
     ]
   ],
   "_from": "cordova-plugin-admob-simple@latest",
-  "_id": "cordova-plugin-admob-simple@3.3.4",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-admob-simple@3.3.8",
   "_inCache": true,
   "_location": "/cordova-plugin-admob-simple",
   "_nodeVersion": "6.9.1",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/cordova-plugin-admob-simple-3.3.4.tgz_1496577355334_0.24241222185082734"
+    "tmp": "tmp/cordova-plugin-admob-simple_3.3.8_1544299427101_0.5812334173122204"
   },
   "_npmUser": {
     "name": "cupertino",
@@ -41,11 +42,11 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-admob-simple/-/cordova-plugin-admob-simple-3.3.4.tgz",
-  "_shasum": "efaa5f88f293ef0a3263d62df2ee42f69466b9ee",
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-admob-simple/-/cordova-plugin-admob-simple-3.3.8.tgz",
+  "_shasum": "1a7e3303bcc496fc43ce88ed57483bb28ba088d0",
   "_shrinkwrap": null,
   "_spec": "cordova-plugin-admob-simple",
-  "_where": "C:\\Users\\DELL\\Desktop\\test_github\\drn\\drn_radio\\drn_radio",
+  "_where": "D:\\test_github\\onsportfm\\onsportfm\\series_app_ads",
   "author": {
     "name": "Cupertino"
   },
@@ -79,10 +80,14 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "efaa5f88f293ef0a3263d62df2ee42f69466b9ee",
-    "tarball": "https://registry.npmjs.org/cordova-plugin-admob-simple/-/cordova-plugin-admob-simple-3.3.4.tgz"
+    "shasum": "1a7e3303bcc496fc43ce88ed57483bb28ba088d0",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-admob-simple/-/cordova-plugin-admob-simple-3.3.8.tgz",
+    "integrity": "sha512-C0tl/NAf7o1450rcKk1T/MpZFdn3Jvqax0CYLF4zExLfOokZjlLSKDcK7B8EEqjEy6h/6ycCY5nZ3qEYyotIWQ==",
+    "fileCount": 14,
+    "unpackedSize": 444289,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcDCOkCRA9TVsSAnZWagAAaT0P/3cQvDzdwiOvrGesuOud\nBWGfakxK5dUCWHHDkCDXg68QCsA9NqcfsqwJu8wZpfohRZVcbghKBPzKlXRS\ndmhDHtK+NRTAqwjRFEHvc13hH4Wkk243tMC5KUwXZouAPZ/8ripw2FmhPsER\nAkFv8cG5WcyoXAGNZx6vpJmZBgZ00zCwk5DwuGeW/HDGwi9JNh5mjFnzgHXA\nCoUEZvao62PMwJEXA1sN1pnCDwYysCBjI+qOIyxf9YoGb/JGyNxO4CFKSqAl\nrYeABajqksFiJHo6ZvXmEOlLzOT30szOxnJX6yXIx36l5IpXfEG8rbyXzOSd\ntjP7B0WbyiwkhHyqgvyK31vIAA89Hkl/zEoP1iJ0gOVnMJdtViEaNmbWSirB\nj99OItPkLJI79Zl/9k4M1YDFtq52p2/ymUKj8w5R36nNUNq+PnEyId6gV8hO\n9dzrKTLkj48vL78SZEIFVT5s6p6nTkNknGaayr1BGC7xB9XjmCqS0qEU5Xn5\nctxuK0P3vqczmFTZhmwDwXM5BYUSNaZeEao3CWXxFom+fKYx1jCC5HLJk1/i\njS4m9AFqC0DbWJ6hi9z5gYdSG1ZoeoAqfcb0mZwBy0sTkhi+AAQd0MiHviNW\ng1NOKhqZPCqXZdHeqZ4B0/YpaScgvyx4gLgdjdq9pFQcOFmLLKXE1wGz1HNg\nMNP/\r\n=0rco\r\n-----END PGP SIGNATURE-----\r\n"
   },
-  "gitHead": "fddf623815dbfef9026be1d160f16ec5d7e1379d",
+  "gitHead": "5344f794fc4422345dba50cdd9ac94f4d7d5af94",
   "homepage": "https://github.com/sunnycupertino/cordova-plugin-admob-simple#readme",
   "keywords": [
     "cordova",
@@ -153,5 +158,5 @@
     "version": "sync-package-version --cordova-plugin"
   },
   "tonicExampleFilename": "test.js",
-  "version": "3.3.4"
+  "version": "3.3.8"
 }

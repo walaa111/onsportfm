@@ -10,7 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
-      "C:\\Users\\DELL\\Desktop\\test_github\\drn\\drn_radio\\drn_radio"
+      "D:\\test_github\\onsportfm\\onsportfm\\series_app_ads"
     ]
   ],
   "_from": "cordova-admob-sdklibs@latest",
@@ -45,7 +45,7 @@
   "_shasum": "adaf5e0139477dc8ce1514fe2f03bc4efc7b7de1",
   "_shrinkwrap": null,
   "_spec": "cordova-admob-sdklibs",
-  "_where": "C:\\Users\\DELL\\Desktop\\test_github\\drn\\drn_radio\\drn_radio",
+  "_where": "D:\\test_github\\onsportfm\\onsportfm\\series_app_ads",
   "author": {
     "name": "Sunny Cupertino"
   },
