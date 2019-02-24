@@ -31,13 +31,5 @@
     },
     "is_top_level": false,
     "variables": {}
-  },
-  "cordova-plugin-admob-simple": {
-    "source": {
-      "type": "registry",
-      "id": "https://github.com/sunnycupertino/cordova-plugin-admob-simple"
-    },
-    "is_top_level": true,
-    "variables": {}
   }
 }

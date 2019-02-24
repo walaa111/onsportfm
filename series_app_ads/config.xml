@@ -39,5 +39,4 @@ onsportfmstream
     <preference name="android-targetSdkVersion" value="26" />
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
     <engine name="android" spec="~6.3.0" />
-    <plugin name="cordova-plugin-admob-simple" spec="https://github.com/sunnycupertino/cordova-plugin-admob-simple" />
 </widget>

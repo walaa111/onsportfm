@@ -16,14 +16,6 @@ module.exports = [
       "cordova.InAppBrowser.open",
       "window.open"
     ]
-  },
-  {
-    "id": "cordova-plugin-admob-simple.AdMob",
-    "file": "plugins/cordova-plugin-admob-simple/www/AdMob.js",
-    "pluginId": "cordova-plugin-admob-simple",
-    "clobbers": [
-      "window.plugins.AdMob"
-    ]
   }
 ];
 module.exports.metadata = 
@@ -31,9 +23,7 @@ module.exports.metadata =
 {
   "admob": "5.5.0",
   "cordova-plugin-inappbrowser": "1.7.1-dev",
-  "cordova-plugin-whitelist": "1.3.2",
-  "cordova-admob-sdklibs": "2.1.6",
-  "cordova-plugin-admob-simple": "3.3.8"
+  "cordova-plugin-whitelist": "1.3.2"
 };
 // BOTTOM OF METADATA
 });

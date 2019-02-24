@@ -15,14 +15,7 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.realdealagency.onsportfmstreaming"
-    },
-    "cordova-plugin-admob-simple": {
-      "PACKAGE_NAME": "com.realdealagency.onsportfmstreaming"
     }
   },
-  "dependent_plugins": {
-    "cordova-admob-sdklibs": {
-      "PACKAGE_NAME": "com.realdealagency.onsportfmstreaming"
-    }
-  }
+  "dependent_plugins": {}
 }
