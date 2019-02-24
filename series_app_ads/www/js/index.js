@@ -53,15 +53,12 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
 initAd();
-/*
 showBannerFunc();
 showInterstitialFunc();
-*/
         console.log('Received Event: ' + id);
     }
 };
 //initialize the goodies 
-/*
 function initAd(){
         if ( window.plugins && window.plugins.AdMob ) {
             var ad_units = {
@@ -93,7 +90,6 @@ function initAd(){
         }
 }
 //functions to allow you to know when ads are shown, etc. 
-*/
 function registerAdEvents() {
         document.addEventListener('onReceiveAd', function(){});
         document.addEventListener('onFailedToReceiveAd', function(data){});
